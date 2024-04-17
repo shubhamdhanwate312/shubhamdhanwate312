@@ -1,27 +1,31 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there! 👋</h1>
 
 <h2 align="left">About Me</h2>
 
-<p align="left">Hey, I'm Shubham, a software developer passionate about creating innovative solutions. I hold a degree in [Your Field] and have experience in [mention any relevant experience or projects]. In my free time, I enjoy exploring new technologies and contributing to open-source projects.</p>
+<p align="left">I'm Shubham, a passionate 📊 Data Engineering  with a knack for building robust data pipelines and solving complex data challenges. With a strong foundation in software development, I bring creativity and efficiency to every project I undertake.</p>
 
-<h2 align="left">Skills</h2>
+<h2 align="left">My Skills</h2>
+
+<p align="left">🐍 Python | 🛠 SQL | ☁️ AWS  | 🌟 PySpark</p>
+
+<h2 align="left">Technologies I Work With</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="SQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS logo" />
   <img width="12" />
-  <img src="URL_FOR_SQL_ICON" height="40" alt="SQL icon" />
-  <img src="URL_FOR_MICROSOFT_EXCEL_ICON" height="40" alt="Microsoft Excel icon" />
-  <img src="URL_FOR_POSTGRESQL_ICON" height="40" alt="PostgreSQL icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" height="40" alt="Apache Spark logo" />
 </div>
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Contact Me</h2>
 
-<!-- Add your projects here with descriptions and links -->
+<p align="left">Feel free to reach out to me via:</p>
 
-<h2 align="left">Contact</h2>
-
-<!-- Add your contact information here -->
+<ul>
+  <li>📧 Email: shubhamdhanwate312@gmail.com</li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/shubham-dhanwate-m9011990473/">Your LinkedIn Profile</a></li>
+ 
+</ul>
