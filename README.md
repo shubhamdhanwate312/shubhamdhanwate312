@@ -6,18 +6,18 @@
 
 <h2 align="left">My Skills</h2>
 
-<p align="left">🐍 Python | 🛠 SQL | ☁️ AWS  | 🌟 PySpark</p>
+<p align="left">🐍 Python | 🛠 Oracle SQL | ☁️ AWS  | 🌟 PySpark</p>
 
 <h2 align="left">Technologies I Work With</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="SQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="SQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" height="40" alt="Apache Spark logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Apache Spark logo" />
 </div>
 
 <h2 align="left">Contact Me</h2>
