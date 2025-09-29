@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elastic-original.svg" height="40" alt="ELK Stack logo" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elastic-original.svg" height="40" alt="ELK Stack logo" /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
