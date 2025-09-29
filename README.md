@@ -19,7 +19,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elastic-original.svg" height="40" alt="ELK Stack logo" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elastic-original.svg" height="40" alt="ELK Stack logo" />
+  <!-- Elastic Icon from Iconscout -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-elastic-icon-283142.png" height="40" alt="Elastic logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
@@ -43,6 +45,5 @@
 
 <ul>
   <li>📧 Email: shubhamdhanwate55555@gmail.com</li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/shubham-dhanwate-m9011990473/">Shubham Dhanwate</a></li>
   <li>🐙 GitHub: <a href="https://github.com/shubhamdhanwate55555">shubhamdhanwate55555</a></li>
 </ul>
